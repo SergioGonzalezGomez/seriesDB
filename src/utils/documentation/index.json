@@ -1,0 +1,196 @@
+{
+    "Users": [ 
+        {
+            "endpoint": "/api/users/:id",
+            "action": "GET",
+            "response": {
+                "name": "Yoel Arenas",
+                "email": "seriesdbteams@gmail.com",
+                "emoji": "🤡",
+                "favorites": [
+                    {
+                        "_id": "61e1854324bf8a4ab276fc61",
+                        "name": "Vikings",
+                        "yearsonstream": "2010-2021",
+                        "on_air": true,
+                        "cast": [
+                            {
+                                "_id": "61e16512c95c9d8738862da0",
+                                "name": "Travis Fimmel",
+                                "birth_date": "15-07-1979",
+                                "role": "Ragnar Lothbrok",
+                                "img": "https://res.cloudinary.com/dvawsqdhx/image/upload/v1642154481/seriesDBteam/pceggf7rftvf42djbsk6.jpg",
+                                "__v": 0,
+                                "createdAt": "2022-01-14T11:57:07.560Z",
+                                "updatedAt": "2022-01-14T11:57:07.560Z"
+                            },
+                            {
+                                "_id": "61e16512c95c9d8738862da1",
+                                "name": "Katheryn Winnick",
+                                "birth_date": "17-12-1977",
+                                "role": "Lagertha",
+                                "img": "https://res.cloudinary.com/dvawsqdhx/image/upload/v1642154638/seriesDBteam/fxiuomfjce1ext6ytl3q.jpg",
+                                "__v": 0,
+                                "createdAt": "2022-01-14T11:57:07.561Z",
+                                "updatedAt": "2022-01-14T11:57:07.561Z"
+                            },
+                            {
+                                "_id": "61e16512c95c9d8738862da2",
+                                "name": "Clive Standen",
+                                "birth_date": "22-07-1981",
+                                "role": "Rollo",
+                                "img": "https://res.cloudinary.com/dvawsqdhx/image/upload/v1642157900/seriesDBteam/Clive_Standen_mgfqyz.jpg",
+                                "__v": 0,
+                                "createdAt": "2022-01-14T11:57:07.561Z",
+                                "updatedAt": "2022-01-14T11:57:07.561Z"
+                            }
+                        ],
+                        "img": "https://res.cloudinary.com/dvawsqdhx/image/upload/v1642165037/seriesDBteam/Vikings_nswjav.jpg",
+                        "__v": 0
+                    },
+                    {
+                        "_id": "61e1854324bf8a4ab276fc62",
+                        "name": "Game of Thrones",
+                        "yearsonstream": "2011-2019",
+                        "on_air": false,
+                        "cast": [
+                            {
+                                "_id": "61e16512c95c9d8738862da3",
+                                "name": "Emilia Isobel Euphemia Rose Clarke",
+                                "birth_date": "23-10-1986",
+                                "role": "Daenerys Targaryen",
+                                "img": "https://res.cloudinary.com/dvawsqdhx/image/upload/v1642158145/seriesDBteam/Emilia_Clarke_ly8vbs.jpg",
+                                "__v": 0,
+                                "createdAt": "2022-01-14T11:57:07.561Z",
+                                "updatedAt": "2022-01-14T11:57:07.561Z"
+                            },
+                            {
+                                "_id": "61e16512c95c9d8738862da4",
+                                "name": "Peter Dinklage",
+                                "birth_date": "11-06-1969",
+                                "role": "Tyrion Lannister",
+                                "img": "https://res.cloudinary.com/dvawsqdhx/image/upload/v1642158225/seriesDBteam/Peter_Dinklage_ukmfgx.jpg",
+                                "__v": 0,
+                                "createdAt": "2022-01-14T11:57:07.562Z",
+                                "updatedAt": "2022-01-14T11:57:07.562Z"
+                            },
+                            {
+                                "_id": "61e16512c95c9d8738862da5",
+                                "name": "Kin Harington",
+                                "birth_date": "26-12-1986",
+                                "role": "John Snow",
+                                "img": "https://res.cloudinary.com/dvawsqdhx/image/upload/v1642159430/seriesDBteam/Kit_Harington_iipskk.jpg",
+                                "__v": 0,
+                                "createdAt": "2022-01-14T11:57:07.562Z",
+                                "updatedAt": "2022-01-14T11:57:07.562Z"
+                            }
+                        ],
+                        "img": "https://res.cloudinary.com/dvawsqdhx/image/upload/v1642164997/seriesDBteam/Game_of_Thrones_otlkha.jpg",
+                        "__v": 0
+                    },
+                    {
+                        "_id": "61e1854324bf8a4ab276fc63",
+                        "name": "Naruto",
+                        "yearsonstream": "2002-2007",
+                        "on_air": false,
+                        "cast": [
+                            {
+                                "_id": "61e16512c95c9d8738862da8",
+                                "name": "Noriaki Sugiyama",
+                                "birth_date": "09-03-1976",
+                                "role": "Sasuke Uchiha",
+                                "img": "https://res.cloudinary.com/dvawsqdhx/image/upload/v1642159945/seriesDBteam/Sasuke_lpmtnv.jpg",
+                                "__v": 0,
+                                "createdAt": "2022-01-14T11:57:07.563Z",
+                                "updatedAt": "2022-01-14T11:57:07.563Z"
+                            },
+                            {
+                                "_id": "61e16512c95c9d8738862da9",
+                                "name": "Junko Takeuchi",
+                                "birth_date": "05-04-1972",
+                                "role": "Naruto Uzumaki",
+                                "img": "https://res.cloudinary.com/dvawsqdhx/image/upload/v1642160143/seriesDBteam/Naruto_y2hqt1.jpg",
+                                "__v": 0,
+                                "createdAt": "2022-01-14T11:57:07.563Z",
+                                "updatedAt": "2022-01-14T11:57:07.563Z"
+                            },
+                            {
+                                "_id": "61e16512c95c9d8738862daa",
+                                "name": "Chie Nakamura",
+                                "birth_date": "14-05-1978",
+                                "role": "Sakura Haruno",
+                                "img": "https://res.cloudinary.com/dvawsqdhx/image/upload/v1642160353/seriesDBteam/Sakura_v9b5vj.jpg",
+                                "__v": 0,
+                                "createdAt": "2022-01-14T11:57:07.564Z",
+                                "updatedAt": "2022-01-14T11:57:07.564Z"
+                            }
+                        ],
+                        "img": "https://res.cloudinary.com/dvawsqdhx/image/upload/v1642165007/seriesDBteam/Naruto_w74dfw.jpg",
+                        "__v": 0
+                    }
+                ]
+            }
+        }
+        
+    ],
+    "series": [
+        {
+            "endpoint": "/api/series/:id",
+            "action": "GET",
+            "response":  {
+
+                "_id": "61e1854324bf8a4ab276fc60",
+                "name": "Mad Men",
+                "yearsonstream": "2007-2015",
+                "on_air": false,
+                "cast": [
+                    {
+                        "_id": "61e16512c95c9d8738862d9e",
+                        "name": "Jon Hamm",
+                        "birth_date": "10-03-1971",
+                        "role": "Donald Draper",
+                        "img": "https://res.cloudinary.com/dvawsqdhx/image/upload/v1642107223/seriesDBteam/q6hp6uuerhrdef3ao0q1.jpg",
+                        "__v": 0,
+                        "createdAt": "2022-01-14T11:57:07.559Z",
+                        "updatedAt": "2022-01-14T11:57:07.559Z"
+                    },
+                    {
+                        "_id": "61e16512c95c9d8738862d9f",
+                        "name": "Christina Hendricks",
+                        "birth_date": "03-05-1975",
+                        "role": "Joan Holloway",
+                        "img": "https://res.cloudinary.com/dvawsqdhx/image/upload/v1642153428/seriesDBteam/v5bmbudmahrflefbr2lr.jpg",
+                        "__v": 0,
+                        "createdAt": "2022-01-14T11:57:07.560Z",
+                        "updatedAt": "2022-01-14T11:57:07.560Z"
+                    }
+                ],
+                "img": "https://res.cloudinary.com/dvawsqdhx/image/upload/v1642165055/seriesDBteam/poster_Mad_Men_spq4ap.jpg",
+                "__v": 0
+            
+            }
+        }
+    ],
+    "actors": [
+        {
+            "endpoint": "/api/actors/:id",
+            "action": "GET",
+            "response": {
+
+                "_id": "61e16512c95c9d8738862d9e",
+                "name": "Jon Hamm",
+                "birth_date": "10-03-1971",
+                "role": "Donald Draper",
+                "img": "https://res.cloudinary.com/dvawsqdhx/image/upload/v1642107223/seriesDBteam/q6hp6uuerhrdef3ao0q1.jpg",
+                "__v": 0,
+                "createdAt": "2022-01-14T11:57:07.559Z",
+                "updatedAt": "2022-01-14T11:57:07.559Z"
+            
+            }
+        }
+    ]
+}
+
+
+        
+    
